@@ -5,7 +5,7 @@ Donate link: http://jasonlau.biz
 Tags: user, meta, usermeta, tags, tag, custom, add, jason, lau, jasonlau, jasonlau.biz, register, registration, registered, users, member, members, manage, manager
 Requires at least: 2.8.4 
 Stable tag: 1.0.0
-Tested up to: 3.0.1
+Tested up to: 3.0.4
 
 == Description ==
 
