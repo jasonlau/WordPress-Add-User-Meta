@@ -36,5 +36,10 @@ Why yes, I am!
    
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 * Initial release. Prayers have been answered.
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+* Initial release.
